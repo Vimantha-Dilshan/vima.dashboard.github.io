@@ -17,8 +17,8 @@
 .mycards {
     width: 70%;
     align-items: center;
-    position: absolute;
-    right: 250px;
+    position: relative;
+    right: -220px;
 }
 
 .card {
@@ -28,8 +28,8 @@
 .dtable {
     width: 70%;
     align-items: center;
-    position: absolute;
-    right: 250px;
+    position: relative;
+    right: -220px;
 }
 
 .input-group {

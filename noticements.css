@@ -17,7 +17,7 @@
 .mycards {
     width: 70%;
     align-items: center;
-    position: absolute;
+    position: relative;
     right: 250px;
 }
 
@@ -28,13 +28,13 @@
 .dtable {
     width: 70%;
     align-items: center;
-    position: absolute;
+    position: relative;
     right: 250px;
 }
 
 .input-group {
     width: 30%;
     align-items: center;
-    position: absolute;
+    position: relative;
     right: 550px;
 }
