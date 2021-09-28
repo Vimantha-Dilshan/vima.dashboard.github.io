@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    image-rendering: -moz-crisp-edges;
+    /* Firefox */
+    image-rendering: -o-crisp-edges;
+    /* Opera */
+    image-rendering: -webkit-optimize-contrast;
+    /* Webkit (non-standard naming) */
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+    /* IE (non-standard property) */
+}
+
+.mycards {
+    width: 70%;
+    align-items: center;
+    position: absolute;
+    right: 250px;
+}
+
+.card {
+    background-color: #F2F2F3;
+}
+
+.dtable {
+    width: 70%;
+    align-items: center;
+    position: absolute;
+    right: 250px;
+}
+
+.input-group {
+    width: 30%;
+    align-items: center;
+    position: absolute;
+    right: 550px;
+}
+
+.h1main {
+    color: #012970;
+}
